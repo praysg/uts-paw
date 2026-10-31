@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Indside Out",
+    "kategori": "Animasi",
+    "sutradara": "Pete Docter",
+    "tahun": 2015,
+    "rating": "8.2"
+  },
+  {
+    "id": "2",
+    "judul": "Agak Laen",
+    "kategori": "Drama",
+    "sutradara": "Muhadkly Acho",
+    "tahun": 2024,
+    "rating": "8.5"
+  },
+ {
+    "id": "3",
+    "judul": "The Exorcist : Beliver",
+    "kategori": "Horor",
+    "sutradara": "David Gordon green",
+    "tahun": 2023,
+    "rating": "8"
+  }, 
+  {
+    "id": "4",
+    "judul": "Laskar Pelangi",
+    "kategori": "Drama",
+    "sutradara": "Riri Riza",
+    "tahun": 2008,
+    "rating": "9.5"
+  },
+  {
+    "id": "5",
+    "judul": "Negeri Dongeng",
+    "kategori": "Dokumenter",
+    "sutradara": "Anggi frisca",
+    "tahun": 2017,
+    "rating": "7.8"
+  },
+  {
+    "id": "6",
+    "judul": "KKN di Desa Penari",
+    "kategori": "Horor",
+    "sutradara": "Awi Suryadi",
+    "tahun": 2022,
+    "rating": "5.9"
+  },
+  {
+    "id": "7",
+    "judul": "Titanic",
+    "kategori": "Drama",
+    "sutradara": "James Cameron",
+    "tahun": 1997,
+    "rating": "8.0"
+  },
+  {
+    "id": "8",
+    "judul": "Furious 7",
+    "kategori": "Aksi",
+    "sutradara": "James Wan",
+    "tahun": 2015,
+    "rating": "9,6"
+  },
+  {
+    "id": "9",
+    "judul": "Ranah 3 Warna",
+    "kategori": "Drama",
+    "sutradara": "Guntur Soeharjanto",
+    "tahun": 2022,
+    "rating": "6.9"
+  },
+  {
+    "id": "10",
+    "judul": "MY Octopus Teacher",
+    "kategori": "Dokumenter",
+    "sutradara": "Pippa Ehrlich, James Reed",
+    "tahun": 2020,
+    "rating": "8.1"
   }
 ]
