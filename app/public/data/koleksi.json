@@ -4,7 +4,7 @@
     "judul": "Indside Out",
     "kategori": "Animasi",
     "sutradara": "Pete Docter",
-    "tahun": 2015,
+    "tahunRilis": 2015,
     "rating": "8.2"
   },
   {
@@ -12,7 +12,7 @@
     "judul": "Agak Laen",
     "kategori": "Drama",
     "sutradara": "Muhadkly Acho",
-    "tahun": 2024,
+    "tahunRilis": 2024,
     "rating": "8.5"
   },
  {
@@ -20,7 +20,7 @@
     "judul": "The Exorcist : Beliver",
     "kategori": "Horor",
     "sutradara": "David Gordon green",
-    "tahun": 2023,
+    "tahunRilis": 2023,
     "rating": "8"
   }, 
   {
@@ -28,7 +28,7 @@
     "judul": "Laskar Pelangi",
     "kategori": "Drama",
     "sutradara": "Riri Riza",
-    "tahun": 2008,
+    "tahunRilis": 2008,
     "rating": "9.5"
   },
   {
@@ -36,7 +36,7 @@
     "judul": "Negeri Dongeng",
     "kategori": "Dokumenter",
     "sutradara": "Anggi frisca",
-    "tahun": 2017,
+    "tahunRilis": 2017,
     "rating": "7.8"
   },
   {
@@ -44,7 +44,7 @@
     "judul": "KKN di Desa Penari",
     "kategori": "Horor",
     "sutradara": "Awi Suryadi",
-    "tahun": 2022,
+    "tahunRilis": 2022,
     "rating": "5.9"
   },
   {
@@ -52,7 +52,7 @@
     "judul": "Titanic",
     "kategori": "Drama",
     "sutradara": "James Cameron",
-    "tahun": 1997,
+    "tahunRilis": 1997,
     "rating": "8.0"
   },
   {
@@ -60,7 +60,7 @@
     "judul": "Furious 7",
     "kategori": "Aksi",
     "sutradara": "James Wan",
-    "tahun": 2015,
+    "tahunRilis": 2015,
     "rating": "9,6"
   },
   {
@@ -68,7 +68,7 @@
     "judul": "Ranah 3 Warna",
     "kategori": "Drama",
     "sutradara": "Guntur Soeharjanto",
-    "tahun": 2022,
+    "tahunRilis": 2022,
     "rating": "6.9"
   },
   {
@@ -76,7 +76,7 @@
     "judul": "MY Octopus Teacher",
     "kategori": "Dokumenter",
     "sutradara": "Pippa Ehrlich, James Reed",
-    "tahun": 2020,
+    "tahunRilis": 2020,
     "rating": "8.1"
   }
 ]
