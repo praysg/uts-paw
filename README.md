@@ -1,5 +1,5 @@
 # Watchly
-
+```
 Nama : PRAY FEBRY VALENTINE. SG
 NIM: 124140184
 Kelas: RB
@@ -7,7 +7,7 @@ Tema: Daftar Tontonan Film dan Serial
 Deployment: https://praysg.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
-
+```
 ## Fitur
 
 - **Beranda**: Menampilkan ringkasan jumlah tontonan dan total kategori secara dinamis.
@@ -24,7 +24,7 @@ Deployment: https://praysg.github.io/uts-paw/
 cd app
 npm install
 npm run dev
-
+```
 ## Konsep React yang dipakai
 
 - **Functional Components & JSX**: Menyusun struktur UI halaman serta komponen modular yang dapat digunakan kembali (seperti `KartuItem` dan `KotakPencarian`).
