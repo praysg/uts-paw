@@ -5,9 +5,9 @@ NIM: 124140184
 Kelas: RB
 Tema: Daftar Tontonan Film dan Serial
 Deployment: https://praysg.github.io/uts-paw/
-
-![Tangkapan layar beranda](docs/beranda.png)
 ```
+![Tangkapan layar beranda](docs/beranda.png)
+
 ## Fitur
 
 - **Beranda**: Menampilkan ringkasan jumlah tontonan dan total kategori secara dinamis.
