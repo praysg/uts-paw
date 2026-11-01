@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
 import './Tambah.css'
 
-const AWAL = { judul: '', kategori: 'Kuliah', tenggat: '', prioritas: 'sedang' }
+const AWAL = { judul: '', kategori: 'Film', sutradara: '', tahunRilis: '', rating: '' }
 
 export default function Tambah() {
   const { tambah } = useKoleksi()
@@ -25,7 +25,7 @@ export default function Tambah() {
 
   return (
     <form className="formulir" onSubmit={simpan} noValidate>
-      <h1>Tambah Tugas</h1>
+      <h1>Tambah Film</h1>
 
       <label htmlFor="judul">Judul</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
@@ -40,7 +40,7 @@ export default function Tambah() {
       </select>
 
       <label htmlFor="tenggat">Sutradara</label>
-      <input id="tenggat" name="Sutradara" value={form.sutradara} onChange={ubah} placeholder='Nama Sutradara'/>
+      <input id="tenggat" name="sutradara" value={form.sutradara} onChange={ubah} placeholder='Nama Sutradara'/>
 
       <label htmlFor="tahunRilis">Tahun Rilis</label>
       <input

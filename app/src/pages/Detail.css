@@ -1,0 +1,63 @@
+.detail-card {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eaeaea;
+}
+
+.detail-card h1 {
+  margin-top: 0;
+  color: #db7093;
+  margin-bottom: 1.5rem;
+}
+
+.detail-card dl {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 0.75rem 1rem;
+  margin-bottom: 2rem;
+}
+
+.detail-card dt {
+  font-weight: 600;
+  color: #555;
+}
+
+.detail-card dd {
+  margin: 0;
+  color: #333;
+}
+
+.aksi {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.btn-hapus {
+  padding: 0.6rem 1.2rem;
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-hapus:hover {
+  background-color: #ff7875;
+}
+
+.btn-kembali {
+  padding: 0.6rem 1.2rem;
+  background-color: #f0f0f0;
+  color: #333;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.btn-kembali:hover {
+  background-color: #e4e4e4;
+}

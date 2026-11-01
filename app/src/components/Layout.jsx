@@ -25,7 +25,7 @@ export default function Layout() {
       <main className="isi">
         <Outlet />
       </main>
-      <footer className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>
+      <footer className="kaki">Watchly - Your Personal Movie Collection</footer>
     </div>
   )
 }
